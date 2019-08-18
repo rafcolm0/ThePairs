@@ -1,0 +1,6 @@
+framework module Pods_ThePairs {
+  umbrella header "Pods-ThePairs-umbrella.h"
+
+  export *
+  module * { export * }
+}
